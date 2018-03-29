@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{30E4ACA9-8F28-4BDA-9221-A585714FD2D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToDoApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApp Status">
+    <Files>
+      <File FileName="ToDoApp/Services/CloudDataStore.cs" Line="1" Column="1" />
+      <File FileName="ToDoApp/Services/MockDataStore.cs" Line="1" Column="1" />
+      <File FileName="ToDoApp/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="ToDoApp/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="ToDoApp Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C04AAF7-71BF-4EF5-91CD-A5872B019D2B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ToDoApp.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
